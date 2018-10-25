@@ -1,0 +1,10 @@
+beautifulsoup4
+ipykernel
+jupyter
+jupyter_contrib_nbextensions
+lxml
+notebook
+pandas
+requests
+RISE
+selenium
